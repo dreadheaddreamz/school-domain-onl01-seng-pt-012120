@@ -1,8 +1,9 @@
 class School
   
-  ROSTER = []
+  
   
   def initialize(model)
     @model = model
+    roster = []
   end
 end
